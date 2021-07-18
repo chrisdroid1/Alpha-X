@@ -1,5 +1,9 @@
 [![TheAlphaX - Alpha-X](https://img.shields.io/static/v1?label=TheAlphaX&message=Alpha-x&color=blue&logo=github)](https://github.com/TheAlphaX/Alpha-X)
+<p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x"><img src="https://img.shields.io/github/last-commit/TheAlphaX/Alpha-X?logoColor=brown&style=plastic"></a>
 
+[![Python 3.8](https://img.shields.io/badge/Python-3.8%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/Alpha-X)
    
 <h1 align="center"> 🇮🇳 ALPHA X 🇮🇳 </h1>
 
@@ -15,15 +19,6 @@
 The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
-
-
-[![Python 3.8](https://img.shields.io/badge/Python-3.8%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/Alpha-X)
-
-## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
-
-<p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x"><img src="https://img.shields.io/github/last-commit/TheAlphaX/Alpha-X?logoColor=brown&style=plastic"></a>
 
 <details><summary> <h1 align="center">⚡ DEPLOYING ⚡</h1> </summary
 
