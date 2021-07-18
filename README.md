@@ -5,10 +5,6 @@
 
 [![Alpha-X](https://telegra.ph/file/9a6a4f1099000a3db9ee0.jpg)](https://t.me/AlphaXHelpChat)
 
-   <a href="https://github.com/TheAlphaX/AlphaX">
-      <img src="resources/logos/readme.jpg" alt="alphax", height="300px",width="300px">
-   </a>
-   <br>
    <b>AlphaX UserBot</b><br>
    <i>The Future Bot</i>
 </p>
