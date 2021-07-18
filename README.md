@@ -93,7 +93,7 @@ GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="h
 ##### 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗈𝖥 L͟O͟G͟O͟S͟+C͟L͟I͟P͟S͟ Oᖴ 𝐀𝐥𝐩𝐡𝐚-𝐗 ☻︎
 
 Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" />
-
+</details>
 <details><summary> <h1 align="center">LICENSE</h1> </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
