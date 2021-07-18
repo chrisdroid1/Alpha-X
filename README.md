@@ -1,6 +1,9 @@
-<p align="center">
+[![TheAlphaX - Alpha-X](https://img.shields.io/static/v1?label=TheAlphaX&message=Alpha-x&color=blue&logo=github)](https://github.com/TheAlphaX/Alpha-X)
+
    
 <h1 align="center"> 🇮🇳 ALPHA X 🇮🇳 </h1>
+
+[![Alpha-X](https://telegra.ph/file/9a6a4f1099000a3db9ee0.jpg)](https://t.me/AlphaXHelpChat)
 
    <a href="https://github.com/TheAlphaX/AlphaX">
       <img src="resources/logos/readme.jpg" alt="alphax", height="300px",width="300px">
@@ -61,6 +64,24 @@ FROM
 
 <a href="https://telegram.me/AlphaXHelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
+
+<details> <summary> <h3>• Mandatory Vars •</h3> </summary>
+
+  - Some of the environment variables are mandatory.
+- These are listed below.
+    - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
+    - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
+    - `ENV`:   `ANYTHING`
+    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` in termux after cloning this repo. Or just using [repl run](https://telegram.me/pyrosessiongen_bot)
+    - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
+    - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
+    - `DB_URI`:   Same as `DATABASE_URL`
+    - `BOT_TOKEN`:   Make a Bot from [Botfather](https://t.me/botfather) and paste the bot token here.
+    - `BOT_USERNAME`:   Paste the Username of bot that you made from [BotFather](https://t.me/botfather).
+- The userbot will not work without setting the mandatory vars.
+</details>
+
+
 
 <details><summary> <h1 align="center">DEVELOPERS</h1> </summary>
  
