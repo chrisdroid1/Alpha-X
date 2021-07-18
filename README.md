@@ -1,29 +1,47 @@
-[![TheAlphaX - Alpha-X](https://img.shields.io/static/v1?label=TheAlphaX&message=Alpha-x&color=blue&logo=github)](https://github.com/TheAlphaX/Alpha-X) 
-[![Python 3.8](https://img.shields.io/badge/Python-3.8%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/Alpha-X)
-<p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x">
-
-<h1 align="center"> 🇮🇳 ALPHA X 🇮🇳 </h1>
-
-[![Alpha-X](https://telegra.ph/file/9a6a4f1099000a3db9ee0.jpg)](https://telegram.me/AlphaXUpdates)
-
+<p align="center">
+   
+   <a href="https://github.com/TheAlphaX/AlphaX">
+      <img src="resources/logos/readme.jpg" alt="alphax", height="300px",width="300px">
+   </a>
+   <br>
    <b>AlphaX UserBot</b><br>
    <i>The Future Bot</i>
+</p>
+ 
+   
+# [AlphaX](https://telegram.me/AlphaXUpdates) userbot
+
 The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
 
-<details><summary> <h1 align="center">⚡ DEPLOYING ⚡</h1> </summary
+
+[![Python 3.8](https://img.shields.io/badge/Python-3.8%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/TheAlphaX/Alpha-X)
+
+## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
+
+<p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x"><img src="https://img.shields.io/github/last-commit/TheAlphaX/Alpha-X?logoColor=brown&style=plastic"></a>
+
+# How to Deploy AlphaX Userbot?
+##### click on Deploy to Heroku Button 
+
+<p>
 
 
-  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku">
 
- 
-</details>
+  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
+
+  </a>
+
+</p>
+
+     
+     
 
 
-<details><summary> <h1 align="center">API ID & API HASH</h1> </summary>
- 
+### API ID AND API HASH 
 ŦEŁEGŘλM 
 𝙰𝙿𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
 FROM 
@@ -32,44 +50,22 @@ FROM
 
 </p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/via_BoT-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
-</details>
-<details><summary> <h1 align="center">Generating String Session</h1> </summary>
 
+
+
+### SESSION STRING 
 <a href="https://telegram.me/pyrosessiongen_bot" target="_blank"><img src="https://img.shields.io/badge/BoT-STRING_SESSION-orange.svg?style=for-the-badge&logo=Telegram"></a>
 #### SAFE TO USE 😌
 
-</details>
 
 
-<details><summary> <h1 align="center">Official Support</h1> </summary>
- 
+# SUPPORT 
 
 <a href="https://telegram.me/AlphaXUpdates" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://telegram.me/AlphaXHelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-</details>
 
-<details><summary> <h1 align="center">MANDATORY VARS</h1> </summary>
- 
-
-  - Some of the environment variables are mandatory.
-- These are listed below.
-    - `APP_ID`:   You can get this value from [here](https://my.telegram.org)
-    - `API_HASH`:   You can get this value from [here](https://my.telegram.org)
-    - `ENV`:   `ANYTHING`
-    - `STRING_SESSION`:   You can get this value from running `python3 string_session.py` in termux after cloning this repo. Or just using [repl run](https://telegram.me/pyrosessiongen_bot)
-    - `LOG_GROUP`:   Make a Channel Or Group and get it's id.
-    - `DATABASE_URL`:   Make a database on elephant sql and paste the url.
-    - `DB_URI`:   Same as `DATABASE_URL`
-    - `BOT_TOKEN`:   Make a Bot from [Botfather](https://t.me/botfather) and paste the bot token here.
-    - `BOT_USERNAME`:   Paste the Username of bot that you made from [BotFather](https://t.me/botfather).
-- The userbot will not work without setting the mandatory vars.
-</details>
-
-
-
-<details><summary> <h1 align="center">DEVELOPERS</h1> </summary>
- 
+# 𝙳𝙴𝚅𝙴𝙻𝙿𝙾𝙴𝚁𝚂
 
 ### ACCOUNTS
 
@@ -88,35 +84,14 @@ TELEGRAM ☞︎︎︎ <a href="https://t.me/Royal_Devendra"> <img src="https://i
 GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="https://img.shields.io/badge/github-RoyalDevendra-teal?logo=github" /></a>
 
 
+ 
+
 
 
 ##### 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗈𝖥 L͟O͟G͟O͟S͟+C͟L͟I͟P͟S͟ Oᖴ 𝐀𝐥𝐩𝐡𝐚-𝐗 ☻︎
 
-Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" />
-</details>
-<details><summary> <h1 align="center">LICENSE</h1> </summary>
+Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" /></a>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-
-Copyright (C) 2021 
-Team TheAlhpaX
-
-Poject  [Alpha-X](https://github.com/TheAlphaX/Alpha-X) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-Released under [GNU](/LICENSE) by [@TheAlphaX](https://github.com/TheAlphaX).
-</details>
 
 
 
