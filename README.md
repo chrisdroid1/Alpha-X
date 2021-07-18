@@ -26,20 +26,12 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 <p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/network/members"><img src="https://img.shields.io/github/forks/TheAlphaX/Alpha-X?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-X/stargazers"><img src="https://img.shields.io/github/stars/TheAlphaX/Alpha-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TheAlphaX/Alpha-x"><img src="https://img.shields.io/github/last-commit/TheAlphaX/Alpha-X?logoColor=brown&style=plastic"></a>
 
-<details><summary> <h1 align="center">⚡ DEPLOYING ⚡</h1> </summary>
-
-# How to Deploy AlphaX Userbot?
-##### click on Deploy to Heroku Button 
-
-<p>
+<details><summary> <h1 align="center">⚡ DEPLOYING ⚡</h1> </summary
 
 
+  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku">
 
-  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
-
-  </a>
-
-</p>
+ 
 </details>
 
 
@@ -53,7 +45,7 @@ FROM
 
 </p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/via_BoT-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
 
-
+</details>
 <details><summary> <h1 align="center">Generating String Session</h1> </summary>
  
 
