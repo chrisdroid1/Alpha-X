@@ -88,21 +88,22 @@ TELEGRAM ☞︎︎︎ <a href="https://t.me/Royal_Devendra"> <img src="https://i
 GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="https://img.shields.io/badge/github-RoyalDevendra-teal?logo=github" /></a>
 
 
- 
-
 
 
 ##### 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗈𝖥 L͟O͟G͟O͟S͟+C͟L͟I͟P͟S͟ Oᖴ 𝐀𝐥𝐩𝐡𝐚-𝐗 ☻︎
 
 Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" />
-<details><summary> <h3>• LICENSE •</h3> </summary>
+
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
+
+<details><summary> <h1 align="center">LICENSE</h1> </summary>
+ 
 
 Copyright (C) 2021 
 Team TheAlhpaX
 
-Poject [Alpha-X](https://github.com/TheAlphaX/Alpha-X) is free software: you can redistribute it and/or modify
+Poject  [Alpha-X](https://github.com/TheAlphaX/Alpha-X) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
