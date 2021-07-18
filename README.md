@@ -5,13 +5,10 @@
 
 <h1 align="center"> 🇮🇳 ALPHA X 🇮🇳 </h1>
 
-[![Alpha-X](https://telegra.ph/file/9a6a4f1099000a3db9ee0.jpg)](https://t.me/AlphaXHelpChat)
+[![Alpha-X](https://telegra.ph/file/9a6a4f1099000a3db9ee0.jpg)](https://telegram.me/AlphaXUpdates)
 
    <b>AlphaX UserBot</b><br>
    <i>The Future Bot</i>
-   
-# [AlphaX](https://telegram.me/AlphaXUpdates) userbot
-
 The Most Powerful Telegram Userbot.
 This Userbot is Safe to use in Your Telegram Account.
 It is not like the other bots which are being Suspended by Heroku. Hence, it can be deployed to Heroku.
