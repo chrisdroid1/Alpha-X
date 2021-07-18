@@ -4,10 +4,6 @@ from telethon.tl.functions.channels import ExportMessageLinkRequest as GetLink
 
 from . import *
 
-ALPHAPIC = "resources/logos/core_used.jpg"
-CL = os.environ.get("INLINE_PIC")
-if CL:
-    ALPHAPIC = CL
 
 
 @ultroid_cmd(pattern="update$")
@@ -18,7 +14,6 @@ async def _(e):
     if m:
         x = await asst.send_file(
             int(os.environ.get("LOG_CHANNEL")),
-            ALPHAPIC,
             caption="• **Update Available** •",
             force_document=False,
             buttons=Button.inline("Changelogs", data="changes"),
