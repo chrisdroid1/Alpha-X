@@ -40,12 +40,11 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
   </a>
 
 </p>
-
-     
-     </details>
+</details>
 
 
-### API ID AND API HASH 
+<details><summary> <h1 align="center">API ID & API HASH</h1> </summary>
+ 
 ŦEŁEGŘλM 
 𝙰𝙿𝙿 𝙸𝙳 & 𝙰𝙿𝙸 𝙷𝙰𝚂𝙷 
 FROM 
