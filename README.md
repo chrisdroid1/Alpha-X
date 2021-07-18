@@ -47,10 +47,7 @@ FROM
 
 </details>
 <details><summary> <h1 align="center">Generating String Session</h1> </summary>
- 
 
-
-### SESSION STRING 
 <a href="https://telegram.me/pyrosessiongen_bot" target="_blank"><img src="https://img.shields.io/badge/BoT-STRING_SESSION-orange.svg?style=for-the-badge&logo=Telegram"></a>
 #### SAFE TO USE 😌
 
@@ -63,7 +60,7 @@ FROM
 <a href="https://telegram.me/AlphaXUpdates" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://telegram.me/AlphaXHelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
-
+</details>
 
 <details><summary> <h1 align="center">DEVELOPERS</h1> </summary>
  
