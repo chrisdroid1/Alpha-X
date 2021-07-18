@@ -100,9 +100,9 @@ Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 TeamAlpha-X
+Copyright (C) 2021 TheAlpha-X
 
-Poject [Dark bot](https://github.com/Pushpendra6367/Dark-userbot) is free software: you can redistribute it and/or modify
+Poject [Alpha-X](https://github.com/TheAlpha-X/Alpha-X) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -115,7 +115,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Released under [GNU](/LICENSE) by [@Teamalpha-X](https://github.com/Alpha-X).
+Released under [GNU](/LICENSE) by [@TheAlpha-X](https://github.com/Alpha-X).
 </details>
 
 
