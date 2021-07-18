@@ -117,8 +117,8 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Released under [GNU](/LICENSE) by [@
-Team AlhpaX](https://github.com/
-Team AlhpaX).
+Team-AlhpaX](https://github.com/
+Team-AlhpaX).
 </details>
 
 
