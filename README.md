@@ -61,7 +61,8 @@ FROM
 <a href="https://telegram.me/AlphaXHelpChat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 </details>
 
-<details> <summary> <h3>• MANDATORY VARS •</h3> </summary>
+<details><summary> <h1 align="center">MANDATORY VARS</h1> </summary>
+ 
 
   - Some of the environment variables are mandatory.
 - These are listed below.
