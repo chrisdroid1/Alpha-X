@@ -31,7 +31,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 
-  <a href="https://heroku.com/deploy?template=https://github.com/TheAlphaX/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/Chrisdroid1/Alpha-X"><img height="40px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku">
 
   </a>
 
