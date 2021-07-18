@@ -96,7 +96,27 @@ GITHUB ➛ <a href="https://github.com/RoyalDevendra" alt="Devendra"><img src="h
 
 Telegram ☞︎︎︎ <a href="https://t.me/TGM_NO_1_HACKER"> <img src="https://img.shields.io/badge/HACKER-logoguy-blue?style=social&logo=telegram" alt="DEVELOPER" /></a>
 
+<summary> <h3>• LICENSE •</h3> </summary>
 
+![](https://www.gnu.org/graphics/gplv3-or-later.png)
+
+Copyright (C) 2021 TeamAlpha-X
+
+Poject [Dark bot](https://github.com/Pushpendra6367/Dark-userbot) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Released under [GNU](/LICENSE) by [@Teamalpha-X](https://github.com/Alpha-X).
+</details>
 
 
 
